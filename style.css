@@ -1,0 +1,36 @@
+body{
+    background-color: #80DF5E;
+    color: #335925;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+header{
+    background-image:url("https://oir.mobi/uploads/posts/2021-03/1616605911_26-p-odnorodnii-fon-29.jpg");
+    height: 25%;
+}
+header h1{
+    text-align:center;
+    font-size:50px;
+    padding:10px;
+    color: white;
+}
+main{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color:#335925;
+    color: white;
+    padding:10px;
+}
+nav{
+    display:flex;
+    margin: 20px;
+}
+footer{
+    background-color: #80DF5E;
+}
