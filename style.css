@@ -1,3 +1,5 @@
+
+
 body{
     background-color: #80DF5E;
     color: #335925;
@@ -16,7 +18,6 @@ header h1{
 }
 main{
     font-size: 30px;
-    display: flex;
     justify-content: center;
     padding: 10px;
 }
